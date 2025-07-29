@@ -1,5 +1,5 @@
 
-# Desafio Técnico - Desenvolvedor Backend Junior (NestJS)
+# Desafio Técnico - Desenvolvedor Backend (NestJS)
 
 ## Visão Geral - O que é esperado?
 O objetivo deste desafio é avaliar suas habilidades com NestJS na criação de uma aplicação simples, onde você vai gerenciar tarefas e categorias. Queremos ver como você organiza o código, implementa boas práticas e estrutura a aplicação.
