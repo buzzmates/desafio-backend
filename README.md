@@ -54,4 +54,4 @@ A avaliação do desafio será baseada nos seguintes pontos:
 - **Documentação:** A API deve ser bem documentada utilizando o **Swagger**, com exemplos de requisições e respostas para facilitar os testes da API.
 
 ## Entrega:
-O candidato deve enviar o código-fonte completo em um repositório Git (preferencialmente GitHub ou GitLab), juntamente com instruções claras de como rodar o projeto localmente. A documentação da API deve ser gerada automaticamente através do **Swagger** e incluir exemplos de uso dos endpoints.
+O candidato deve enviar o código-fonte completo em um repositório Git (preferencialmente GitHub ou GitLab), juntamente com instruções claras de como rodar o projeto localmente.
